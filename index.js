@@ -33,7 +33,7 @@ async function gsrun(cl) {
     const gsapi = google.sheets({ version: 'v4', auth: cl });
     const opciones = {
             spreadsheetId: '1fzdcaWHhSb_GOjgj7fXhjb7wssbkfggy9KDW9vKbxxg',
-            range: 'Datos!A1:D10'
+            range: 'Datos!A1:E10'
         }
         // la variable data esperara hasta que se obtenga la informacion de google shhets mediante el await-
         // antes de cuntinuar con la sigiuente intruccion. 
