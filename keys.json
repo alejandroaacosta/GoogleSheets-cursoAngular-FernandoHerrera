@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cursoangularfernandoherrera",
+  "private_key_id": "fa973edf0a8e1e136c99b5d605fbe36efaa824b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTiDODm02LtaN3\naO2SEjgLgha+c/JqbrPrRAEQFTeTnRXr7cALtsgmziEzQgSxjyr5FWyjbepg/Ixl\nTH68SAinXcuh+uuz66yLKwW397tFtl+btbAXMn9BJVcAPv9W+fzFb7H5VgKEXEMG\n18X2OubVFNckqHs6TbqVBYiVtEY6egTubsoTey9cIlEMACjquE4NUPUejDDD41x5\nAPgj0JMGXUNQggZB6f7jmM+JRc/KXL39laWq7lgEWaUzufQ9dAx9o6DSv8RrKNzm\nteQEiw3SjbxcwNews6vRcbgDkuBNAO7hr7tdjwWQGvLiNJWfR9j+DjyAevBA5y0x\nEZujSvnvAgMBAAECggEAF/LXnekDdQbmwrcDPZ98fo2/AGqU8ucGiM3QuFohW/J3\ngQVmk+A3bGkwpX/1gBdD/AwYxwzMK7NDXRxGRG0TDowgxqoTQfEjYLH6qyrpOP9K\nVN3w+EsHsj0L+uu/ClDpUel4RAfMv8y0SrOTHI3iM7u+0uIQot3ESHWN/vM1JT+z\nXRwjD7kEqJLNKbKqt+lOxTTj99+f0G4jFxB0YcF1oHBLuamlQGfn9KXmpn48JmTP\nPVRBrmdzWmDCuCjjyo8iaCjdzhzTkfgrRFE0eJhvSCMaPuJSDzLSRTePPWsWcCvV\nP8vh+s0tWgmJGAqY3jdyY/kh/Ik+bCraALhcqn+8CQKBgQDEWFA7QEGXQ1J5RqDr\nrp6gXPPyQdSVhCcfnfCw5nA4l05raMWKE28yK0FxJL86Rx9BqSUw4kCXuwsv0dJ4\nzDXPvGmKFp58vIkAEhitBCKiYexFbJ+OdftgOIbAPtD57qF4eyK6KzKvhpGr6C10\nrom/BIE2IV0dffMGlf2PBIS85wKBgQDAWzlM6Am8DsQtqnLzAkZlbP5aX/tK7G2x\nnoTFbIVLKv8BcJzhMva33iLzfjE3FY89A+w6DY6z9TnJHQs0qSHqVIBRsOnI+v8T\njSVlQauk5ufjrnWCgx4xcHibXXgEJzBMxH3fxJ14767D3Vbp3Qn7t4IHYM60Dv/8\naJu46A/xuQKBgAoQ/QwMn1BCA1h0ZouuyDMwkNE6zstbmyXj0xM+vUIpf7vCA16w\n4GKSFSjX2XYDb3bOVTnMX8Nns4sgFspareeYoVCTGE0M3XlDdEBqldv9aT+l8gg7\nxEeKnl382nn14hFrPryMumyFWbKWlL4GtMk2UemUjFGWw37y8a0DbkrBAoGAPUaS\nGVKtjy+xBM8QcSMfY731xLpgpbxtMTDLIMzyJUDcHQxPnVmLyITF44UmjmKaz5gJ\nT3D0LZWHw+4xnKPoPuqOOfe+cZyrVwIWkIv77rrz0c7IdjvoiV1Hvk5nJgOJ2lqZ\nsofCljzcEl7XCga04G/Txx/qmOdSWojEWoHqWlkCgYAA2pv24bc+WYDqsc4dIPiX\nrMa3B9umlZ+X1jZ7wtwas2OoDijbY4ZX3lGclcc8A5/kGjqI0RJHWrSs2BcuE5jz\njPBHm39bsRqgtZEpWybhT2C+KXGe7E9VG/LW5cXWR1iydjAjzEplcwgS7dYHqrEJ\nMGbhHTh+lwBMRFEt54/YTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cursoangular@cursoangularfernandoherrera.iam.gserviceaccount.com",
+  "client_id": "112866259867528438087",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cursoangular%40cursoangularfernandoherrera.iam.gserviceaccount.com"
+}
